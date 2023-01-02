@@ -8,52 +8,35 @@ redirect_from:
 ---
 {% include base_path %}
 
-#Education
-#======
-#* B.S. in GitHub, GitHub University, 2012
-#* M.S. in Jekyll, GitHub University, 2014
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-#
-#Work experience
-#======
-#* Summer 2015: Research Assistant
-#  * Github University
-#  * Duties included: Tagging issues
-#  * Supervisor: Professor Git
-#
-#* Fall 2015: Research Assistant
-#  * Github University
-#  * Duties included: Merging pull requests
-#  * Supervisor: Professor Hub
-#  
-#Skills
-#======
-#* Skill 1
-#* Skill 2
-#  * Sub-skill 2.1
-#  * Sub-skill 2.2
-#  * Sub-skill 2.3
-#* Skill 3
-#
-#Publications
-#======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-#  
-#Talks
-#======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
-#  
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-#  
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
-#
+Education
+======
+* Ph.D in Electrical and Computer Engineering, The University of Texas at Austin, 2024 (expected)
+* B.S. in Semiconductor Systems Engineering, Sungkyunkwan University (Seoul, Republic of Korea), 2018
+
+
+Work Experience
+======
+* Dell Technologies: Graduate Intern
+  * 05/2022 - 08/2022
+* Intel Corportion: Graduate Intern
+  * 06/2020 - 08/2021 
+  
+Research Projects
+======
+* Interconnect Technology Optimization - *UT Design Automation Lab (Professor David Z. Pan)* 
+  * 01/2022 - Current
+* Formal/Semi-Formal Verification of Cache Coherency Protocol
+  * 06/2020 - 12/2020
+* SKKU: Undergraduate Research Assistant - *Design & Test for Systems Lab (Professor Joon-Sung Yang*
+  * 08/2016 - 07/2018 
+
+
+Teaching Experience
+======
+* UT Austin: Graduate Teaching Assistant - *E E 460R/382M VLSI 1*
+  * 08/2019-12/2019, 08/2021-12/2021
+* UT Austin: Graduate Teaching Assistant - *E E 382M Verification of Digital Systems*
+  * 01/2020-06/2020
+* UT Austin: Graduate Teaching Assistant - *E E 306 Introduction to Computing*
+  * 08/2019-12/2018
+
