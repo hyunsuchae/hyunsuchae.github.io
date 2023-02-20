@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in Electrical and Computer Engineering at [The University of Texas at Austin](https://www.utexas.edu/), working with Prof. [David Z. Pan](http://users.ece.utexas.edu/~dpan/) in the [UTDA Lab](https://www.cerc.utexas.edu/utda/).
+I am currently a Ph.D. student in Electrical and Computer Engineering at [The University of Texas at Austin](https://www.utexas.edu/), working with Professor [David Z. Pan](http://users.ece.utexas.edu/~dpan/) in the [UTDA Lab](https://www.cerc.utexas.edu/utda/).
