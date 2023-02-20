@@ -8,17 +8,23 @@ redirect_from:
 ---
 {% include base_path %}
 
+[PDF](/files/CV.pdf){: .btn}
+
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, The University of Texas at Austin, current
-* B.S. in Semiconductor Systems Engineering, Sungkyunkwan University (Seoul, Republic of Korea), 2018
+* Ph.D. The University of Texas at Austin, TX, PRESENT
+  * Electrical and Computer Engineering
+* B.S. Sungkyunkwan University, Seoul, Republic of Korea, 2018
+  * Semiconductor Systems Engineering
+  * Honors: Samsung Electronics Semiconductor Scholarship
 
 
 Work Experience
 ======
 * Dell Technologies: Graduate Intern
   * 05/2022 - 08/2022 (3 months)
-* Intel Corportion: Graduate Intern
+* Intel Corportion: CPU Verification-Graduate Technical Intern
+  * Atom CPU Formal Verification Team 
   * 06/2020 - 08/2021 (1 year 2 months)
   
 Research Projects
