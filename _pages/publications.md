@@ -24,6 +24,7 @@ Conference Papers
 ======
 * 2023
   ### C2. [ISOP: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Design]()
+     * [Paper](/files/DATE23_final_paper.pdf){: .btn} [Poster](/files/DATE23_final_poster.pdf){: .btn} [PPT](/files/DATE23_final_ppt_no_recordings.pptx){: .btn} 
      * **Hyunsu Chae**, Bhyrav Mutnury, Keren Zhu, Douglas Wallace, Douglas Winterberg, Daniel de Araujo, Jay Reddy, Adam Klivans, and David Z. Pan
      * IEEE/ACM Design, Automation and Test in Europe (DATE), Antwerp, Belgium, Apr. 17-20, 2023.
 
