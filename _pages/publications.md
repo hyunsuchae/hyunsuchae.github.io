@@ -32,7 +32,10 @@ Conference Papers
 * 2023
   ### C3. [Method of Exploring HVM Process Corner Cases for Loss and Impedance in High Speed Designs]()
      * **Hyunsu Chae**, Bhyrav Mutnury, Douglas Wallace, Douglas Winterberg, Arun Chada, Adam Klivans, and David Z. Pan
-     * IEEE Conference on Electrical Performance of Electronic Packaging and Systems (EPEPS), Milpitas, CA, USA, Oct. 15-18, 2023 (Accepted).
+     * IEEE Conference on Electrical Performance of Electronic Packaging and Systems (EPEPS), Milpitas, CA, Oct. 15-18, 2023.
+     * (Accepted)
+
+
   ### C2. [ISOP: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Design]()
      * [Paper](/files/DATE23_final_paper.pdf){: .btn} [Poster](/files/DATE23_final_poster.pdf){: .btn} [PPT](/files/DATE23_final_ppt_no_recordings.pptx){: .btn} 
      * **Hyunsu Chae**, Bhyrav Mutnury, Keren Zhu, Douglas Wallace, Douglas Winterberg, Daniel de Araujo, Jay Reddy, Adam Klivans, and David Z. Pan
