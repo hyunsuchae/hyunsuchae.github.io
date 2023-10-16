@@ -24,13 +24,18 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 Journal Articles
 ======
 * 2023
-  ### J1. [ISOP+: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Designi](https://ieeexplore.ieee.org/)
+  ### J1. [ISOP+: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Design](https://ieeexplore.ieee.org/document/10227538)
      * **Hyunsu Chae**, Bhyrav Mutnury, Keren Zhu, Douglas Wallace, Douglas Winterberg, Daniel de Araujo, Jay Reddy, Adam Klivans, and David Z. Pan
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
-     * (Accepted)
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Aug., 2023.
 
 Conference Papers
 ======
+* 2024
+  ### C4. [ISOP-Yield: Yield-Aware Stack-Up Optimization for Advanced Package using Machine Learning]()
+     * **Hyunsu Chae**, Keren Zhu, Bhyrav Mutnury, Zixuan Jiang, Douglas Wallace, Douglas Winterberg, Adam Klivans, and David Z. Pan
+     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Incheon, S. Korea, Jan 22-25, 2024. 
+     * (Accepted)
+
 * 2023
   ### C3. [Method of Exploring HVM Process Corner Cases for Loss and Impedance in High Speed Designs]()
      * **Hyunsu Chae**, Bhyrav Mutnury, Douglas Wallace, Douglas Winterberg, Arun Chada, Adam Klivans, and David Z. Pan
@@ -38,7 +43,7 @@ Conference Papers
      * (Accepted)
 
 
-  ### C2. [ISOP: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Design]()
+  ### C2. [ISOP: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Design](https://ieeexplore.ieee.org/document/10137055)
      * [Paper](/files/DATE23_final_paper.pdf){: .btn} [Poster](/files/DATE23_final_poster.pdf){: .btn} [PPT](/files/DATE23_final_ppt_no_recordings.pptx){: .btn} 
      * **Hyunsu Chae**, Bhyrav Mutnury, Keren Zhu, Douglas Wallace, Douglas Winterberg, Daniel de Araujo, Jay Reddy, Adam Klivans, and David Z. Pan
      * IEEE/ACM Design, Automation and Test in Europe (DATE), Antwerp, Belgium, Apr. 17-20, 2023.
