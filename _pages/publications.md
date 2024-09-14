@@ -31,16 +31,20 @@ Journal Articles
 Conference Papers
 ======
 * 2024
-  ### C4. [ISOP-Yield: Yield-Aware Stack-Up Optimization for Advanced Package using Machine Learning]()
-     * **Hyunsu Chae**, Keren Zhu, Bhyrav Mutnury, Zixuan Jiang, Douglas Wallace, Douglas Winterberg, Adam Klivans, and David Z. Pan
-     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Incheon, S. Korea, Jan 22-25, 2024. 
+
+  ### C5. [PulseRF: Physics-Augmented ML Modeling and Synthesis for High-Frequency RFIC Design]()
+     * **Hyunsu Chae**, Hao Yu, Sensen Li and David Z. Pan
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Newark, NJ, Oct 27-31, 2024.
      * (Accepted)
 
+  ### C4. [ISOP-Yield: Yield-Aware Stack-Up Optimization for Advanced Package using Machine Learning](https://ieeexplore.ieee.org/abstract/document/10473886)
+     * **Hyunsu Chae**, Keren Zhu, Bhyrav Mutnury, Zixuan Jiang, Douglas Wallace, Douglas Winterberg, Adam Klivans, and David Z. Pan
+     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Incheon, S. Korea, Jan 22-25, 2024. 
+
 * 2023
-  ### C3. [Method of Exploring HVM Process Corner Cases for Loss and Impedance in High Speed Designs]()
+  ### C3. [Method of Exploring HVM Process Corner Cases for Loss and Impedance in High Speed Designs](https://ieeexplore.ieee.org/abstract/document/10314912)
      * **Hyunsu Chae**, Bhyrav Mutnury, Douglas Wallace, Douglas Winterberg, Arun Chada, Adam Klivans, and David Z. Pan
      * IEEE Conference on Electrical Performance of Electronic Packaging and Systems (EPEPS), Milpitas, CA, Oct. 15-18, 2023.
-     * (Accepted)
 
 
   ### C2. [ISOP: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Design](https://ieeexplore.ieee.org/document/10137055)

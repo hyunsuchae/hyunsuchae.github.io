@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hyunsu Chae"
 title_separator          : "-"
 name                     : &name "Hyunsu Chae"
-description              : &description "Ph.D. student, The University of Texas at Austin"
+description              : &description "Ph.D. candidate, The University of Texas at Austin"
 url                      : https://hyunsuchae.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hyunsuchae/hyunsuchae.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Hyunsu Chae"
-  avatar           : "profile.png"
-  bio              : "Ph.D. student, The University of Texas at Austin"
+  avatar           : "HyunsuChae.jpg"
+  bio              : "Ph.D. candidate, The University of Texas at Austin"
   location         : "Austin, TX"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
