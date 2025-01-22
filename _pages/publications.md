@@ -30,12 +30,17 @@ Journal Articles
 
 Conference Papers
 ======
-* 2024
+* 2025
+  ### C6. [ML-Assisted RF IC Design Enablement: The New Frontier of AI for EDA (Invited Paper)]()
+     * [Paper](/files/2025_01_ASPDAC_invited_final_paper.pdf){: .btn} [PPT](/files/2025_01_ASPDAC_final_ppt_upload.pptx){: .btn} 
+     * **Hyunsu Chae**, Song Hang Chai, Taiyun Chi, Sensen Li, and David Z. Pan
+     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 20-23, 2025. 
 
+* 2024
   ### C5. [PulseRF: Physics-Augmented ML Modeling and Synthesis for High-Frequency RFIC Design]()
-     * **Hyunsu Chae**, Hao Yu, Sensen Li and David Z. Pan
+     * [Paper](/files/2024_10_ICCAD_final_paper.pdf){: .btn} [PPT](/files/2024_10_ICCAD_final_ppt_upload.pptx){: .btn} 
+     * **Hyunsu Chae**, Hao Yu, Sensen Li, and David Z. Pan
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Newark, NJ, Oct 27-31, 2024.
-     * (Accepted)
 
   ### C4. [ISOP-Yield: Yield-Aware Stack-Up Optimization for Advanced Package using Machine Learning](https://ieeexplore.ieee.org/abstract/document/10473886)
      * **Hyunsu Chae**, Keren Zhu, Bhyrav Mutnury, Zixuan Jiang, Douglas Wallace, Douglas Winterberg, Adam Klivans, and David Z. Pan
@@ -48,7 +53,7 @@ Conference Papers
 
 
   ### C2. [ISOP: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Design](https://ieeexplore.ieee.org/document/10137055)
-     * [Paper](/files/DATE23_final_paper.pdf){: .btn} [Poster](/files/DATE23_final_poster.pdf){: .btn} [PPT](/files/DATE23_final_ppt_no_recordings.pptx){: .btn} 
+     * [Paper](/files/2023_04_DATE_final_paper.pdf){: .btn} [Poster](/files/2023_04_DATE_final_poster.pdf){: .btn} [PPT](/files/2023_04_DATE_final_ppt_no_recordings.pptx){: .btn} 
      * **Hyunsu Chae**, Bhyrav Mutnury, Keren Zhu, Douglas Wallace, Douglas Winterberg, Daniel de Araujo, Jay Reddy, Adam Klivans, and David Z. Pan
      * IEEE/ACM Design, Automation and Test in Europe (DATE), Antwerp, Belgium, Apr. 17-20, 2023.
 
