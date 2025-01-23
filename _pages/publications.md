@@ -27,7 +27,6 @@ Journal Articles
   ### J1. [ISOP+: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Design](https://ieeexplore.ieee.org/document/10227538)
      * **Hyunsu Chae**, Bhyrav Mutnury, Keren Zhu, Douglas Wallace, Douglas Winterberg, Daniel de Araujo, Jay Reddy, Adam Klivans, and David Z. Pan
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Aug., 2023.
-     * [Paper](/files/google081cf98ed1eee714.html){: .btn} [PPT]
 
 Conference Papers
 ======
@@ -39,7 +38,7 @@ Conference Papers
 
 * 2024
   ### C5. [PulseRF: Physics-Augmented ML Modeling and Synthesis for High-Frequency RFIC Design]()
-     * [Paper](/files/2024_10_ICCAD_final_paper.pdf){: .btn} [PPT](/files/2024_10_ICCAD_final_ppt_upload.pptx){: .btn} 
+     * [PPT](/files/2024_10_ICCAD_final_ppt_upload.pptx){: .btn} 
      * **Hyunsu Chae**, Hao Yu, Sensen Li, and David Z. Pan
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Newark, NJ, Oct 27-31, 2024.
 
@@ -54,7 +53,7 @@ Conference Papers
 
 
   ### C2. [ISOP: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Design](https://ieeexplore.ieee.org/document/10137055)
-     * [Paper](/files/2023_04_DATE_final_paper.pdf){: .btn} [Poster](/files/2023_04_DATE_final_poster.pdf){: .btn} [PPT](/files/2023_04_DATE_final_ppt_no_recordings.pptx){: .btn} 
+     * [Poster](/files/2023_04_DATE_final_poster.pdf){: .btn} [PPT](/files/2023_04_DATE_final_ppt_no_recordings.pptx){: .btn} 
      * **Hyunsu Chae**, Bhyrav Mutnury, Keren Zhu, Douglas Wallace, Douglas Winterberg, Daniel de Araujo, Jay Reddy, Adam Klivans, and David Z. Pan
      * IEEE/ACM Design, Automation and Test in Europe (DATE), Antwerp, Belgium, Apr. 17-20, 2023.
 
