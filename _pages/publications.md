@@ -28,7 +28,7 @@ Journal Articles
      * **Hyunsu Chae**, Bhyrav Mutnury, Keren Zhu, Douglas Wallace, Douglas Winterberg, Daniel de Araujo, Jay Reddy, Adam Klivans, and David Z. Pan
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Aug., 2023.
 
-     * [Paper](/files/temp_test.html){: .btn} [PPT]
+     * [Paper](/_pages/files/google081cf98ed1eee714.html){: .btn} [PPT]
 Conference Papers
 ======
 * 2025
