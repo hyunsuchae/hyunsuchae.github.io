@@ -31,6 +31,10 @@ Journal Articles
 Conference Papers
 ======
 * 2025
+  ### C7. [A D-Band InP Power Amplifier Featuring Fully AI-Generated Passive Networks]()
+     * Song Hang Chai, **Hyunsu Chae**, Hao Yu, David Z. Pan, and Sensen Li
+     * IEEE MTT-S International Microwave Symposium (IMS), San Francisco, CA, Jun 15-20, 2025
+  
   ### C6. [ML-Assisted RF IC Design Enablement: The New Frontier of AI for EDA (Invited Paper)]()
      * [Paper](/files/2025_01_ASPDAC_invited_final_paper.pdf){: .btn} [PPT](/files/2025_01_ASPDAC_final_ppt_upload.pptx){: .btn} 
      * **Hyunsu Chae**, Song Hang Chai, Taiyun Chi, Sensen Li, and David Z. Pan
