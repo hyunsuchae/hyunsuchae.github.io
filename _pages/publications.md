@@ -35,13 +35,13 @@ Conference Papers
      * Song Hang Chai, **Hyunsu Chae**, Hao Yu, David Z. Pan, and Sensen Li
      * IEEE MTT-S International Microwave Symposium (IMS), San Francisco, CA, Jun 15-20, 2025
   
-  ### C6. [ML-Assisted RF IC Design Enablement: The New Frontier of AI for EDA (Invited Paper)]()
+  ### C6. [ML-Assisted RF IC Design Enablement: The New Frontier of AI for EDA (Invited Paper)](https://dl.acm.org/doi/abs/10.1145/3658617.3703637)
      * [Paper](/files/2025_01_ASPDAC_invited_final_paper.pdf){: .btn} [PPT](/files/2025_01_ASPDAC_final_ppt_upload.pptx){: .btn} 
      * **Hyunsu Chae**, Song Hang Chai, Taiyun Chi, Sensen Li, and David Z. Pan
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 20-23, 2025. 
 
 * 2024
-  ### C5. [PulseRF: Physics-Augmented ML Modeling and Synthesis for High-Frequency RFIC Design]()
+  ### C5. [PulseRF: Physics-Augmented ML Modeling and Synthesis for High-Frequency RFIC Design](https://dl.acm.org/doi/abs/10.1145/3676536.3676768)
      * [PPT](/files/2024_10_ICCAD_final_ppt_upload.pptx){: .btn} 
      * **Hyunsu Chae**, Hao Yu, Sensen Li, and David Z. Pan
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Newark, NJ, Oct 27-31, 2024.
