@@ -10,12 +10,17 @@ redirect_from:
 
 [PDF (updated 08/2024)](/files/Hyunsu_Chae_resume_08_2024.pdf){: .btn}
 
+
+Current Employment
+======
+* Postdoctoral Fellow - The University of Texas at Austin, TX
+
 Education
 ======
-* Ph.D. The University of Texas at Austin, TX, PRESENT
+* Ph.D. The University of Texas at Austin, TX, May 2025
   * Electrical and Computer Engineering
   * Advisor: Professor David Z. Pan (since Fall 2021)
-* B.S. Sungkyunkwan University, Seoul, Republic of Korea, 2018
+* B.S. Sungkyunkwan University, Seoul, Republic of Korea, Feb 2018
   * Semiconductor Systems Engineering
   * Honors: Samsung Electronics Semiconductor Scholarship
 
