@@ -34,9 +34,11 @@ Conference Papers
   ### C8. [Towards Generative AI for Analog and RF IC Design: From Spec to Layout (Invited Paper)]()
      * **Hyunsu Chae**, Seunggeun Kim, Souradip Poddar, Xiaohan Gao, Sensen Li, and David Z. Pan
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct. 26-30, 2025
+
   ### C7. [A D-Band InP Power Amplifier Featuring Fully AI-Generated Passive Networks]()
      * Song Hang Chai, **Hyunsu Chae**, Hao Yu, David Z. Pan, and Sensen Li
      * IEEE MTT-S International Microwave Symposium (IMS), San Francisco, CA, Jun 15-20, 2025
+  
   ### C6. [ML-Assisted RF IC Design Enablement: The New Frontier of AI for EDA (Invited Paper)](https://dl.acm.org/doi/abs/10.1145/3658617.3703637)
      * [Paper](/files/2025_01_ASPDAC_invited_final_paper.pdf){: .btn} [PPT](/files/2025_01_ASPDAC_final_ppt_upload.pptx){: .btn} 
      * **Hyunsu Chae**, Song Hang Chai, Taiyun Chi, Sensen Li, and David Z. Pan

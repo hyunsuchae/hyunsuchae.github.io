@@ -17,10 +17,10 @@ Current Employment
 
 Education
 ======
-* Ph.D. The University of Texas at Austin, TX, May 2025
+* Ph.D. The University of Texas at Austin, TX, 05/2025
   * Electrical and Computer Engineering
   * Advisor: Professor David Z. Pan (since Fall 2021)
-* B.S. Sungkyunkwan University, Seoul, Republic of Korea, Feb 2018
+* B.S. Sungkyunkwan University, Seoul, Republic of Korea, 02/2018
   * Semiconductor Systems Engineering
   * Honors: Samsung Electronics Semiconductor Scholarship
 
